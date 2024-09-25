@@ -21,3 +21,9 @@ As a dedicated Computer Scientist, I am driven by transforming innovative ideas 
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/basmahsalman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basmahsalmann&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basmahsalmann&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basmahsalmann&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basmahsalmann&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basmahsalmann&theme=apprentice&utcOffset=8)
